@@ -1,4 +1,4 @@
-![alt text] (https://github.com/zenyc/zenyc/blob/master/gUgmgmLa.gif)
+![alt text](https://github.com/zenyc/zenyc/blob/master/gUgmgmLa.gif "text")
 
 
 Here are some ideas to get you started:
