@@ -2,6 +2,7 @@
 ![alt text](https://github.com/zenyc/zenyc/blob/master/typing.gif "hi")
 
 ![Follow](https://img.shields.io/github/followers/zenyc?label=Followers&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
 
 #### So,
 
